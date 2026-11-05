@@ -13,7 +13,7 @@ This repository contains **three files**:
 
 > **Unofficial.** Not affiliated with OnePlus, LineageOS, or KernelSU-Next.
 > Flashing a custom boot image can brick your device or destroy your data.
-> Read the restore section before flashing. Use at your own risk.
+> Read the restore section before flashing. Use at your own risk. Although it is tested to work :)
 
 ---
 
